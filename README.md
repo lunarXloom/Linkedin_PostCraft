@@ -6,7 +6,7 @@
 [![TypeScript](https://img.shields.io/badge/TypeScript-100%25-blue)](https://www.typescriptlang.org/)
 [![React](https://img.shields.io/badge/React-18-blue)](https://reactjs.org/)
 
-**[🚀 Try Live Demo](https://postcraft.bolt.host)** | **[For Recruiters](#portfolio-analysis)** | **[Tech Stack](#tech-stack)** | **[Quick Start](#quick-start)**
+**[🚀 Try Live Demo](https://postcraft.bolt.host)** | **[Tech Stack](#tech-stack)** | **[Quick Start](#quick-start)**
 
 **A [FutureCrafters](https://www.futurecrafters.ai) Project** • Built by [Irvin Cruz](https://irvincruz.com)
 
@@ -18,7 +18,7 @@
 
 **Why Different:** Voice transcription as primary input (fastest content creation method), brand voice personalization (company name, website, LinkedIn profile baked in), and webhook architecture (extensible, integrates with any backend).
 
-**For Recruiters:** Demonstrates voice interface integration, webhook architecture, user settings management, localStorage persistence, and content workflow (generate → edit → publish → history).
+**Technical Showcase:** Demonstrates voice interface integration, webhook architecture, user settings management, localStorage persistence, and content workflow (generate → edit → publish → history).
 
 **For Businesses:** Solo entrepreneurs and content creators can generate branded LinkedIn posts in seconds via voice—no typing, no design work, just speak and publish.
 
@@ -132,7 +132,7 @@ Post History (LocalStorage)
 
 ## Portfolio Analysis
 
-> **For Recruiters & Hiring Managers**
+## Technical Overview
 
 ### What This Project Demonstrates
 
@@ -521,9 +521,10 @@ PostCraft is part of FutureCrafters' portfolio of AI productivity tools.
 
 ---
 
-**For recruiters:** Demonstrates voice interface integration, webhook architecture, and complete content workflow design—forward-thinking product execution.
 
 ---
 
 *A FutureCrafters Project • Built by [Irvin Cruz](https://irvincruz.com) ☀️*  
 *Last Updated: February 2026*
+
+
